@@ -19,8 +19,12 @@ cdn-ws.content.steamchina.com
 cdn-qc.content.steamchina.com
 cdn-ali.content.steamchina.com
 epicgames-download1-1251447533.file.myqcloud.com
+baidu.com
+*.baidu.com
 csdn.net
 *.csdn.net
+cnblogs.com
+*.cnblogs.com
 ```
 
 - 路由hosts文件
