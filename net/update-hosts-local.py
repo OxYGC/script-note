@@ -4,7 +4,7 @@ import platform
 
 # 这里要更新局域网hosts的主机名称 key对应的是主机名称 value 对应的是ip对应的host的名称
 
-targetSvrHost = {"THINK-YANG":"mws.com",'mwsvm0': 'mwsvm0'}
+targetSvrHost = {"THINK-YANG":"mws.com","YGC-NAS":"nas.com",'mwsvm0': 'mwsvm0'}
 
 
 targetSvrName = set(targetSvrHost)
