@@ -1,4 +1,6 @@
 {
+  "name":"默认",
+  "type":"default",
   "data": [
     {
       "msg": "Question1",
